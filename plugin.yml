@@ -1,0 +1,12 @@
+name: TOPSHOPUI
+main: King\Main
+version: 0.0.2
+api:
+- 3.5.2
+- 4.0.1
+-3.0.0
+author: KING
+description: A SHOPUI PLUGIN
+commands:
+ shop:
+  description: SHOPUI PLUGIN
